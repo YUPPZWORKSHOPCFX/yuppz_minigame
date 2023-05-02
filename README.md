@@ -1,4 +1,4 @@
-# yuppz_minigame MINIGAMECARD ESX/QBCORE
+# yuppz_minigame มินิเกมการ์ด ESX/QBCORE
 
 ## Installation
 - Add this in your `server.cfg`:
